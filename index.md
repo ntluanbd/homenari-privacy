@@ -1,5 +1,3 @@
-[Tiếng Việt](vi.md)
-
 # Homenari: Chores & Calendar Privacy Policy
 
 Homenari: Chores & Calendar is developed by Optimus.NTL.
